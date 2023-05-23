@@ -705,15 +705,15 @@
 
 #    Name of the server, to be displayed when players join and in the serverlist.
 #    type: string
-# server_name = Minetest server
+# server_name = Ajay's World
 
 #    Description of server, to be displayed when players join and in the serverlist.
 #    type: string
-# server_description = mine here
+# server_description = An Awsome Amazing Server Hosted Invidually By Ajay
 
 #    Domain name of server, to be displayed in the serverlist.
 #    type: string
-# server_address = game.minetest.net
+# server_address = ajayworld2023.minetest.land
 
 #    Homepage of server, to be displayed in the serverlist.
 #    type: string
@@ -729,7 +729,7 @@
 
 #    Message of the day displayed to players connecting.
 #    type: string
-# motd =
+# motd = Welcome Legendary Player To Ajay's World Pure Survival and Machines Server
 
 #    Maximum number of players that can be connected simultaneously.
 #    type: int min: 0 max: 65535
@@ -782,7 +782,7 @@
 #    The privileges that new users automatically get.
 #    See /privs in game for a full list on your server and mod configuration.
 #    type: string
-# default_privs = interact, shout
+# default_privs = interact, shout,spawn,sethome,protect
 
 #    Privileges that players with basic_privs can grant
 #    type: string
