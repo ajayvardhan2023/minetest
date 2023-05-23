@@ -699,7 +699,7 @@
 #    When running a server, clients connecting with this name are admins.
 #    When starting from the main menu, this is overridden.
 #    type: string
-# name =
+# name = AjayVardhan
 
 ### Serverlist and MOTD
 
